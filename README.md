@@ -1,9 +1,9 @@
 # Petagram, Menús y Fragments
 
-### Importante
+## Importante
 
-#### Para que la aplicación envíe el correo electrónico se debe editar el archivo ConfigurarMail.java con los datos de la cuenta de correo a utilizar.
-#### La configuración para el envío del mensaje se basa en una cuenta de correo de Gmail.
+**Para que la aplicación envíe el correo electrónico se debe editar el archivo *ConfigurarMail.java* con los datos de la cuenta de correo a utilizar.**
+**La configuración para el envío del mensaje se basa en una cuenta de correo de Gmail.**
 
 
 ### En esta aplicación se implementa Menús y Fragments
