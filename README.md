@@ -15,3 +15,19 @@ Menú de Opciones muestra:
 Fragments
 * Modulariza el proyecto en Fragments para que estos puedan ser mostrados en un ViewPager.
 * Se utiliza librería para generar una imagen redonda como foto de perfil de la mascota: 
+
+### Vistas de la aplicación
+**Petagram Home**
+![Petagram Home](https://github.com/luigi-git/Petagram-Menus-Fragmentes/blob/master/Petagrama_Fragmet_Home.png)
+
+**Petagram Mascota Perfil**
+![Petagram Mascota Perfil](https://github.com/luigi-git/Petagram-Menus-Fragmentes/blob/master/Petagram_Fragment_MascotaPerfil.png)
+
+**Petagram Mascotas Favoritas**
+![Petagram Mascotas Favoritas](https://github.com/luigi-git/Petagram-Menus-Fragmentes/blob/master/Petagram_MascotasFavoritas.png)
+
+**Petagram Contacto**
+![Petagram Contacto](https://github.com/luigi-git/Petagram-Menus-Fragmentes/blob/master/Petagram_Contacto.png)
+
+**Petagram Acerca De**
+![Petagram Acerca De](https://github.com/luigi-git/Petagram-Menus-Fragmentes/blob/master/Petagram_AcercaDe.png)
